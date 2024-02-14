@@ -55,6 +55,6 @@ Click image to see the final installation:
 
 # Final Result
 
-  <img src="./IMG_4190" alt="final" style="height: 300px;"/>
+  <img src="./IMG_4190.JPG" alt="final" style="height: 300px;"/>
 
 
