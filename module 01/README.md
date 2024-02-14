@@ -25,7 +25,7 @@ Click image to see the final installation:
 
 # Prepping Battery
 1. Solder battery's power and ground cables to JST connectors.
-2.  Cut small pieces of heatshrink tubing to cover exposed wires and melt down with industrial grade blow dryer (this is to ensure power and ground cables don't touch when plugged in).
+2. Cut small pieces of heatshrink tubing to cover exposed wires and melt down with industrial grade blow dryer (this is to ensure power and ground cables don't touch when plugged in).
    
    <img src="./heatshrink.JPG" alt="melting heatshrink" style="height: 300px;"/>
    
@@ -38,6 +38,7 @@ Click image to see the final installation:
 2. Using a drill press, drill hole into a wide popsicle stick.
 
     <img src="./drillpress.JPG" alt="drilled hole in popsicle stick" style="height: 300px;"/>
+    
 3. Fold a long piece of durable string or thread in half, thread the folded side through the hole in the popsicle stick.
 4. Create holes in the enclosure and thread for hanging.
 
