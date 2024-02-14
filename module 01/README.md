@@ -2,6 +2,8 @@
 Goals: 
 1. Introduction to the world of working with an underspecified problem and writing code that is creatively driven rather than driven by specifications.
 2. Become comfortable with the art world in a low stakes way.
+   
+[![Final Installation](https://img.youtube.com/vi/gXei0mASSDU /0.jpg)](https://www.youtube.com/watch?v=gXei0mASSDU )
 
 # Installing software
 1. [Install Arduino application here.](https://www.arduino.cc/en/software). 
