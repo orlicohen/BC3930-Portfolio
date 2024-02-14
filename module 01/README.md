@@ -32,15 +32,17 @@ Goals:
 2. Using a drill press, drill hole into a wide popsicle stick.
 
     <img src="./drillpress.JPG" alt="drilled hole in popsicle stick" style="height: 300px;"/>
-4. Fold a long piece of durable string or thread in half, thread the folded side through the hole in the popsicle stick.
-5. Create holes in the enclosure and thread for hanging.
+3. Fold a long piece of durable string or thread in half, thread the folded side through the hole in the popsicle stick.
+4. Create holes in the enclosure and thread for hanging.
 
    <img src="./threaded.JPG" alt="threaded enclosure" style="height: 300px;"/>
-7. Use tape to secure the ESP32 and connected battery inside the enclosure.
+5. Use tape to secure the ESP32 and connected battery inside the enclosure.
 
    <img src="./assembly.JPG" alt="assembled ESP32 and battery inside enclosure" style="height: 300px;"/>
-9. Thread the other end(s) of the string through hole(s) in the enclosure and tie.
-10. Hang installation. (In this case, rested popsicle stick in slats in ceiling to hang device enclosure).
+   
+6. Thread the other end(s) of the string through hole(s) in the enclosure and tie.
+7. Hang installation. (In this case, rested popsicle stick in slats in ceiling to hang device enclosure).
+
     <img src="./installation.JPG" alt="hanging installation" style="height: 300px;"/>
 
 
