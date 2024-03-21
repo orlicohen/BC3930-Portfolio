@@ -35,10 +35,10 @@ void setup() {
   myPort = new Serial(this, portName, 115200);
   myPort.bufferUntil(10);
     
-  dog = loadImage("/Users/orlicohen/Downloads/d.png");
-  squirrel = loadImage("/Users/orlicohen/Downloads/squirrel.png");
-  bark = loadImage("/Users/orlicohen/Downloads/bark.png");
-  park = loadImage("/Users/orlicohen/Downloads/park.png");
+  dog = loadImage("d.png");
+  squirrel = loadImage("squirrel.png");
+  bark = loadImage("bark.png");
+  park = loadImage("park.png");
   
   bark_sound = new SoundFile(this, "/Users/orlicohen/Downloads/bark_sound.wav");
   bark_sound.amp(.5); 
