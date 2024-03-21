@@ -1,5 +1,8 @@
 # Module 02: Interactive Devices
 
+ <img src="./dog_vs_squirrel.png" alt="game screen" style="height: 500px;"/> <img src="./dog_vs_squirrel_withinrange.png" alt="game screen when user-controlled dog is within range of the squirrel" style="height: 500px;"/>
+
+
 # Overview
 **Goals** 
 1. Create an interactive device with provided hardware using wired power to send data to a laptop for some form of media generation.
@@ -31,9 +34,10 @@
 2. Put ESP32 into breadboard
 3. Connect joystick to device according to the following circuit schematic:
    <img src="./joystick_hardware.png" alt="joystick hardware connection" style="height: 300px;"/>
-   Connections:
-   - Joystick GND (ground) pin -> ESP32 bottom right G pin
-   - Joystick +5V pin -> ESP32 top right 3V pin
+
+   Connections (These connections I used differ from the above diagram):
+   - Joystick GND (ground) pin -> ESP32 G pin
+   - Joystick +5V pin -> ESP32 3V pin
    - Joystick VRX pin -> ESP32 33 pin
    - Joystick VRY pin -> ESP32 25 pin
    - Joystick SW pin -> ESP32 26 pin
