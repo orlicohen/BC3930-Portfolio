@@ -49,4 +49,11 @@
 3. Run dog_vs_squirrel.pde in Processing to run the program on your laptop. (Note: if you encounter a port issue, check to make sure the Serial Monitor is closed in Arduino and run again).
 4. Place hardware into enclosure of choice, ensuring any wired connections remain stable and supported and the USB-C cable can leave to connect to laptop. 
 
+# Final Product 
+Final Enclosure 
 
+ <img src="./module2_final.jpg" alt="final product" style="height: 300px;"/>
+
+Game Play Demo: 
+
+https://github.com/orlicohen/BC3930-Portfolio/assets/107129422/87cfa022-4972-4e0c-9c17-3b21f6395094
